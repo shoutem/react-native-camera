@@ -262,9 +262,9 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SRCROOT)/../../../ios/**",
+					"$(SRCROOT)/../../../ios/Pods/**",
 					"${BUILT_PRODUCTS_DIR}/**",
-					"$(SRCROOT)/../../ios/**",
+					"$(SRCROOT)/../../ios/Pods/**",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -316,9 +316,9 @@
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SRCROOT)/../../../ios/**",
+					"$(SRCROOT)/../../../ios/Pods/**",
 					"${BUILT_PRODUCTS_DIR}/**",
-					"$(SRCROOT)/../../ios/**",
+					"$(SRCROOT)/../../ios/Pods/**",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
